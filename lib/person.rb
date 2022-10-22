@@ -64,3 +64,8 @@ class Person
   end
 end
 
+mokua = Person.new("Mokua")
+
+mokua.happiness = 3
+
+pp mokua
